@@ -12,7 +12,7 @@ body {
 
 .hero,
 .header,
-.footer {
+footer {
     background-color: #1f2937;
 }
 
@@ -182,5 +182,11 @@ body {
 .cta-header,
 .cta-text {
     color: #e5e7eb;
+}
+
+footer {
+    color: #e5e7eb;
+    padding: 5px 0;
+    text-align: center;
 }
 
