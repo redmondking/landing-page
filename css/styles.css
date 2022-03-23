@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 
-.header {
+header {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -11,7 +11,7 @@ body {
 }
 
 .hero,
-.header,
+header,
 footer {
     background-color: #1f2937;
 }
